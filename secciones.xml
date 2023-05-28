@@ -1,0 +1,58 @@
+<secciones>
+	<seccion>
+		<nombre>2a</nombre>
+		<productos>pañuelossss, papel higiénico, servilletas</productos>
+	</seccion>
+	<seccion>
+		<nombre>9b</nombre>
+		<productos>pollo, res</productos>
+	</seccion>
+	<seccion>
+		<nombre>10a</nombre>
+		<productos>pescado</productos>
+	</seccion>
+	<seccion>
+		<nombre>10b</nombre>
+		<productos>papa, uvas, vegetales, sal prieta, pasta de maní</productos>
+	</seccion>
+	<seccion>
+		<nombre>11a</nombre>
+		<productos>crema de leche, queso, mantequilla</productos>
+	</seccion>
+	<seccion>
+		<nombre>8a</nombre>
+		<productos>leche de coco, leche de almendras, te de menta, te de manzanilla, café</productos>
+	</seccion>
+	<seccion>
+		<nombre>8b</nombre>
+		<productos>leche en polvo, leche entera, leche deslactosada</productos>
+	</seccion>
+	<seccion>
+		<nombre>7a</nombre>
+		<productos>pan integral, pan blanco, tostadas</productos>
+	</seccion>
+	<seccion>
+		<nombre>6b</nombre>
+		<productos>cubeta de huevos</productos>
+	</seccion>
+	<seccion>
+		<nombre>1b</nombre>
+		<productos>talco, cepillo de dientes, pasta de dientes, enjuague bucal</productos>
+	</seccion>
+	<seccion>
+		<nombre>3a</nombre>
+		<productos>enjuague de ropa, detergente de ropa</productos>
+	</seccion>
+	<seccion>
+		<nombre>5b</nombre>
+		<productos>gelatina</productos>
+	</seccion>
+	<seccion>
+		<nombre>4a</nombre>
+		<productos>fideo</productos>
+	</seccion>
+	<seccion>
+		<nombre>10z</nombre>
+		<productos>Anime</productos>
+	</seccion>
+</secciones>
